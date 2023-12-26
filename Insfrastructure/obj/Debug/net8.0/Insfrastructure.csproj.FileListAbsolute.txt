@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\bin\Debug\net8.0\Insfrastructure.deps.json
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\bin\Debug\net8.0\Insfrastructure.dll
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\bin\Debug\net8.0\Insfrastructure.pdb
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.dll
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\refint\Insfrastructure.dll
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\Insfrastructure.pdb
+C:\Users\User\Desktop\Crud\Softclub2\Insfrastructure\obj\Debug\net8.0\ref\Insfrastructure.dll
